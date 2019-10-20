@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{FF3616E6-4CAC-71E1-088E-A4F539E4E942}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Litho/Core/Scripts/Interaction/Manipulators/ItemSpawner.cs">
+    <Files>
+      <File FileName="../../Litho/Core/Scripts/Interaction/Manipulators/ItemSpawner.cs" Line="34" Column="9" />
+      <File FileName="Assets/Scripts/Swapper.cs" Line="12" Column="43" />
+      <File FileName="../../Litho/Core/Scripts/Interaction/Indicators/ClampPrefabIndicator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraFacing.cs" Line="16" Column="56" />
+      <File FileName="../../Litho/Core/Scripts/Interaction/Manipulators/ItemHolder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MakeItRain.cs" Line="21" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LithoAssembly PreferredExecutionTarget="Unity.Editor" />
+</Properties>

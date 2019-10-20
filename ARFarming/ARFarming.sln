@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LithoAssembly", "LithoAssembly.csproj", "{FC9935CD-ACF2-F3B3-1D87-CD347C6267BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{FF3616E6-4CAC-71E1-088E-A4F539E4E942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{84E15594-5B27-FE65-1ECE-8E27A9810E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9935CD-ACF2-F3B3-1D87-CD347C6267BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9935CD-ACF2-F3B3-1D87-CD347C6267BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9935CD-ACF2-F3B3-1D87-CD347C6267BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9935CD-ACF2-F3B3-1D87-CD347C6267BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3616E6-4CAC-71E1-088E-A4F539E4E942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3616E6-4CAC-71E1-088E-A4F539E4E942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3616E6-4CAC-71E1-088E-A4F539E4E942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3616E6-4CAC-71E1-088E-A4F539E4E942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E15594-5B27-FE65-1ECE-8E27A9810E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E15594-5B27-FE65-1ECE-8E27A9810E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E15594-5B27-FE65-1ECE-8E27A9810E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E15594-5B27-FE65-1ECE-8E27A9810E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
